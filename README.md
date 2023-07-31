@@ -1,4 +1,4 @@
-# prj_mtn2
+# Hiking Alarm Project
 
 챗봇 API    <---->        챗봇 클라이언트               -->   (TCP 소켓)챗봇 엔진서버        <------>   DB서버
             TCP/IP                - chatbot_client_test.py              - 챗봇엔진
